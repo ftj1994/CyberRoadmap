@@ -30,3 +30,36 @@ The Google Cybersecurity Certificate has 9 courses that focus on core concepts a
 7. Automate Cybersecurity Tasks with Python  
 8. Put it to Work: Prepare for Cybersecurity Jobs  
 9. Accelerate Your Job Search with AI  
+
+---
+
+## Lesson 4: Course 1 Overview
+
+### Module 1: Welcome to the exciting world of cybersecurity
+Begin your journey into cybersecurity! You'll explore the cybersecurity field and learn about the job responsibilities of cybersecurity professionals.
+
+### Module 2: The evolution of cybersecurity
+- Explore how cybersecurity threats have appeared and evolved alongside the adoption of computers.  
+- Understand how past and present cyber attacks influenced the development of the security field.  
+- Overview of the eight security domains.  
+
+### Module 3: Protect against threats, risks, and vulnerabilities
+- Learn about security frameworks and controls used to mitigate organizational risk.  
+- Cover the CIA triad principles and NIST frameworks.  
+- Explore security ethics.  
+
+### Module 4: Cybersecurity tools and programming languages
+- Discover common tools used by cybersecurity analysts to identify and eliminate risk.  
+- Learn about SIEM tools, network protocol analyzers, and programming languages such as Python and SQL.  
+
+---
+
+### What to Expect in Each Course
+- **Videos**: Concepts, tools, career support, personal stories.  
+- **Readings**: Build on video topics, case studies, resources.  
+- **Community**: Coursera private Cybersecurity Community for networking & discussions.  
+- **Hands-on activities**: Self-reviews, labs with real practice.  
+- **Interactive plug-ins**: Practice tasks to reinforce learning.  
+- **In-video quizzes**: Quick checks during lessons.  
+- **Practice quizzes**: Concept checks, feedback.  
+- **Graded quizzes**: Must score 80%+ to pass (retries allowed).  
