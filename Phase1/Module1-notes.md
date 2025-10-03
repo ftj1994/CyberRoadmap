@@ -63,3 +63,32 @@ Begin your journey into cybersecurity! You'll explore the cybersecurity field an
 - **In-video quizzes**: Quick checks during lessons.  
 - **Practice quizzes**: Concept checks, feedback.  
 - **Graded quizzes**: Must score 80%+ to pass (retries allowed).  
+---
+
+## Lesson 5: Welcome to Week 1
+
+### Course Purpose
+- Introduces the field of security and its role in protecting:
+  - Business operations
+  - Users
+  - Devices
+- Aims to empower learners to help build a safer internet.
+
+### Section 1: Foundational Security Concepts
+- Definition of Security
+- Role of a Security Analyst
+- Common job responsibilities
+- Core skills of a Security Analyst
+- Importance of Security
+- Protecting organizations and individuals
+
+### Section 2: Security Domains & Frameworks
+- Overview of 8 Security Domains
+- Introduction to Security Frameworks and Controls
+
+### Section 3: Tools & Technologies
+- Common tools used by entry-level security analysts
+- Programming languages relevant to the role
+
+### Final Section: Program Resources
+- Guidance on how to maximize learning and success in the program
