@@ -92,3 +92,29 @@ Begin your journey into cybersecurity! You'll explore the cybersecurity field an
 
 ### Final Section: Program Resources
 - Guidance on how to maximize learning and success in the program
+---
+
+## Lesson 6: Welcome to the Google Cybersecurity Certificate (Overview)
+
+### Key Takeaways
+- Presented by **Amanda from Grow with Google**, the team behind the Google Career Certificates.  
+- The program was created by Google experts to help learners develop job-ready cybersecurity skills.  
+- Upon completion, learners join a **community of over one million graduates** launching new tech careers.
+
+### Certification Benefits
+- Earn an **industry-recognized credential from Google** to add to your résumé and LinkedIn profile.  
+- Receive a **discount for the CompTIA Security+ certification**, which further validates your cybersecurity skills to employers.  
+
+### Career Support Resources
+- Access **AI-powered job-search tools** in the final course of the program:
+  - Identify transferrable skills.  
+  - Update your résumé for specific roles.  
+  - Practice interviewing with AI assistance.  
+- **U.S. learners** can sign up for **one-on-one career coaching** and access **CareerCircle**, offering thousands of job postings.  
+- These resources are **free and exclusive** to Google Career Certificate graduates.
+
+### Tips for Success
+1. **Stay on top of deadlines**—learners who do are nearly twice as likely to finish.  
+2. **Engage in the Learner Community** to get advice, connect with peers, and overcome challenges.  
+3. **Be persistent**—don’t get discouraged by obstacles; use available support.  
+
