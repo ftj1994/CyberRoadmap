@@ -118,3 +118,53 @@ Begin your journey into cybersecurity! You'll explore the cybersecurity field an
 2. **Engage in the Learner Community** to get advice, connect with peers, and overcome challenges.  
 3. **Be persistent**—don’t get discouraged by obstacles; use available support.  
 
+---
+
+## Lesson 7: Helpful Resources and Tips for Success
+
+### Course Completion Requirements
+- To earn the **Google Cybersecurity Certificate**, you must complete all 8 courses.  
+- To receive the certificate, learners must:  
+  - Pay the course certificate fee or be approved for a **Coursera scholarship**.  
+  - Pass all **graded quizzes with at least 80%** in each course.  
+  - Each graded quiz contributes to the cumulative course grade.
+
+---
+
+### Healthy Habits for Learning
+- **Plan your time:** Set regular study times each week; use a calendar or timetable to stay consistent.  
+- **Work at your own pace:** Move through lessons at a speed that fits your schedule. You can extend or reset deadlines anytime.  
+- **Be curious:** Explore new ideas, ask questions, and research topics that interest you.  
+- **Take notes:** Helps you retain and connect ideas more effectively.  
+- **Review exemplars:** Completed assignments help guide and inspire your own work.  
+- **Build your career identity:** Define your strengths, goals, and values to align your career path.  
+- **Connect with other learners:** Join the Coursera Cybersecurity Community for questions, discussions, and networking.  
+- **Update your Coursera profile:** Add a photo, career goals, and details to engage with other learners.
+
+---
+
+### Digital Tools Used in the Program
+You will use common tools that security professionals rely on for collaboration:
+- **Documents:** Google Docs / Microsoft Word  
+- **Spreadsheets:** Google Sheets / Microsoft Excel  
+- **Presentations:** Google Slides / Microsoft PowerPoint  
+- **Labs:** Qwiklabs for practical exercises  
+
+Each tool has a Help Center page linked in the course Resources section.
+
+---
+
+### Glossaries & References
+- **Module Glossaries:** Review key terms at the end of each module.  
+- **Course Glossaries:** Contain all terms from each course (downloadable).  
+- **Certificate Glossary:** Includes all terms across the entire program (recommended to save locally).
+
+---
+
+### Course Feedback
+- Use **thumbs-up/thumbs-down** to rate course materials.  
+- Use the **flag icon** to report technical or content issues — feedback helps improve future versions.  
+- For tech issues, visit the **Learner Help Center**.
+
+---
+
