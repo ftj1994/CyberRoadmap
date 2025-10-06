@@ -1,52 +1,78 @@
-# CyberRoadmap 🚀  
+# Forrest Johnson — Cybersecurity & Analytics Roadmap
 
-This repository documents my transition from manual labor work into the tech industry, focusing on **cybersecurity**.  
-It contains my notes, labs, projects, and milestones as I build skills and certifications to launch my cybersecurity career.  
-
----
-
-## 📅 Roadmap Progress
-- [x] Phase 0: Setup tools (VS Code, Git, VirtualBox, GitHub)  
-- [ ] Phase 1: Google Cybersecurity Certificate (in progress)  
-- [ ] Phase 2: CompTIA Security+ preparation  
-- [ ] Phase 3: Advanced labs & portfolio projects  
-- [ ] Phase 4: Job applications & interview prep  
+Welcome! 👋  
+This repository documents my journey from a physical labor career into the world of technology.  
+I’m building practical, real-world skills in **Cybersecurity** and **Business Analytics** with the goal of working remotely in a technical analyst role.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Languages:** Python, Bash, Markdown  
-- **Platforms:** Linux (Ubuntu, Kali), VirtualBox  
-- **Skills in Progress:** Networking, Log analysis, Threat detection, SIEM  
+## 🎯 Mission
+Develop the technical, analytical, and professional toolkit needed to move into a long-term tech career.  
+This includes:
+- Completing the **Google Cybersecurity Professional Certificate**
+- Building hands-on security labs and automation projects
+- Mastering spreadsheets, SQL, and Python for data analysis
+- Creating dashboards and financial tracking tools
+- Developing a personal portfolio of cybersecurity and analytics work
 
 ---
 
-## 📚 Certifications (in progress)
-- Google Cybersecurity Certificate (Coursera)  
-- CompTIA Security+ (planned)  
+## 🔐 Cybersecurity Path
+**Main Track**
+- Google Cybersecurity Professional Certificate (in progress)
+- CompTIA Security+ certification (planned)
+- Linux, SQL, and Python for security tasks
+- Labs covering risk management, vulnerability scanning, and incident response
+- Capstone project: end-to-end security report with automated log analysis
+
+📂 Folder: Phase1/ → course notes and labs  
+📂 Folder: Phase2/Phase3/ → Security+ prep and advanced labs  
 
 ---
 
-## 💻 Projects
-- **Trading Bot (Python)** → automated trading strategy using RSI (completed before cybersecurity pivot)  
-- **Cybersecurity Labs** (coming soon) → log monitoring, firewall configs, vulnerability scans  
-- **SIEM Dashboard** (planned) → Splunk/ELK setup with custom alerts  
+## 📊 Analytics & Operations Path
+**Parallel Track**
+- Excel / Google Sheets: advanced formulas, pivot tables, and dashboards  
+- SQL: querying business and financial data  
+- Python (pandas): data cleaning and report automation  
+- Power BI / Looker Studio: visual dashboards for ROI & performance metrics  
+
+📂 Folder: Analytics/ → dashboards, automations, and daily logs  
+
+**Example Projects**
+- Budget & Expense Tracker  
+- Lead Cost & ROI Dashboard  
+- Automated Monthly Financial Report (Python)  
 
 ---
 
-## 📝 Daily Logs
-Check the `Notes/` folder for:
-- Daily wins & study notes  
-- Key takeaways from each course module  
-- Hands-on lab write-ups  
+## 🗂 Repository Structure
+CyberRoadmap/  
+│  
+├── Phase1/ — Cybersecurity certificate notes & labs  
+├── Analytics/ — Business analytics projects & notes  
+│  └── Notes/ — Daily learning logs  
+├── Notes/ — General progress notes  
+└── README.md — This roadmap overview  
 
 ---
 
-## 🌟 Goals
-- Transition into a **remote cybersecurity role** within 6 months  
-- Build a strong GitHub portfolio of projects  
-- Share progress weekly on [LinkedIn](https://linkedin.com)  
+## 📅 Current Focus
+- Completing Module 1–2 of the Google Cybersecurity Certificate  
+- Building the first analytics project: Budget & Expense Tracker in Google Sheets  
+- Logging daily progress in the Notes/ folders  
 
 ---
 
-⭐ Follow this repo to watch my journey into cybersecurity!
+## 🧭 Looking Ahead
+- Finish all 8 courses of the Cybersecurity Certificate  
+- Earn the CompTIA Security+ credential  
+- Complete 3 analytics dashboards and 1 automation project  
+- Publish portfolio projects and launch LinkedIn profile  
+
+---
+
+## 📫 Contact
+- 📧 Email: *coming soon *  
+- 🌐 LinkedIn: *coming soon*  
+- 🗂 GitHub Portfolio: [github.com/ftj1994](https://github.com/ftj1994)
