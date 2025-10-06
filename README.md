@@ -1,3 +1,8 @@
+<p align="center">
+<img src="images/baner.png" alt="Forrest Johnson name displayed prominently in large white text, with Cybersecurity and Data Analytics Roadmap written below in blue. The background is dark with subtle circuit-like patterns and diagonal neon blue and purple lines, creating a modern and high-tech atmosphere. Additional text reads: Building systems. Securing data. Analyzing impact. The overall tone is professional and forward-looking." width="100%">
+</p>
+
+
 # Forrest Johnson — Cybersecurity & Analytics Roadmap
 
 Welcome! 👋  
